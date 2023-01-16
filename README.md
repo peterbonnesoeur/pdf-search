@@ -15,7 +15,18 @@ $ pip3 install -r requirements.txt
 $ export OPEN_AI_KEY="<your openai api token>"
 ```
 
-## How to use
+## How to use - Gradio app
+
+1. In the project root folder run the following command
+
+```
+$ python3 app.py
+```
+
+You will be prompted with a gradio interface were you can ask your question and also provide a context in the form of a pdf file.
+
+## How to use - CLI
+
 
 1. In the project root folder run the following command
 
